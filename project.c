@@ -1,8 +1,8 @@
 /************************************************************************
  * LES10A110 Principles of C-programming
- * Name: Shangqi Zhao
- * Student number: 000206163
- * Email: Shangqi.Zhao@student.lut.fi
+ * Name: S******o
+ * Student number: 0******3
+ * Email: S******o@student.lut.fi
  * Date: 1.5.2022
  * By submitting this work for evaluation, I certify that
  * 1) I myself wrote all the code in this file
